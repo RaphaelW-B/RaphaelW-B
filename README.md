@@ -5,8 +5,6 @@
 - <b>PowerShell</b>
   - [Windows EventLog: Converting Failed RDP Login Source IPs to Full Geolocation Data](https://github.com/RaphaelW-B/eventlog_geoloc)
   
-- <b>C# (.NET Desktop Applications)</b>
- 
  
 - 
 <h2>📺 YouTube Videos</h2>
@@ -15,7 +13,6 @@
 
 <h2>Academic Publications</h2>
 
-- [1](https://www.youtube.com/)
 
 <h2>Not-so-academic Publications</h2>
 
@@ -25,7 +22,7 @@
 
 <h2>Certifications</h2>
 
-- [2](https://www.youtube.com/)
+- [Google Cybersecurity Specialization](https://coursera.org/share/91c63fa479f00f29054e789339385024)
 
 <h2>Awards</h2>
 
