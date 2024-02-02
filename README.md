@@ -2,8 +2,12 @@
 
 <h2>👨‍💻 Software Development, Cybersecurity and other nerdish Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/)
+- <b>PowerShell</b>
+  - [Windows EventLog: Converting Failed RDP Login Source IPs to Full Geolocation Data](https://github.com/)
+  
+- <b>C# (.NET Desktop Applications)</b>
+ 
+ 
 - 
 <h2>📺 YouTube Videos</h2>
 
@@ -13,9 +17,11 @@
 
 - [1](https://www.youtube.com/)
 
-<h2>Not Academic Publications</h2>
+<h2>Not-so-academic Publications</h2>
 
-- [2](https://www.youtube.com/)
+- ["Brasil Colonial". Human Rights and Minoritires. Slum Magazine. Special Edition, 2017](https://gueto.files.wordpress.com/2018/01/gueto_especial_02.pdf)
+
+- ["Ecce Homo". Cyberia. Slum Magazine. Special Edition, 2018](https://gueto.files.wordpress.com/2018/01/gueto_especial_02.pdf)
 
 <h2>Certifications</h2>
 
