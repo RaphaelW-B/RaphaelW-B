@@ -5,13 +5,6 @@
 - <b>PowerShell</b>
   - [Windows EventLog: Converting Failed RDP Login Source IPs to Full Geolocation Data](https://github.com/RaphaelW-B/eventlog_geoloc)
   
- <h2>Certifications and Licenses</h2>
-
-- [Google Cybersecurity Specialization](https://coursera.org/share/91c63fa479f00f29054e789339385024)
-
-
-<h2>Degrees</h2>
-
 
 <h2>Awards</h2>
 
@@ -43,6 +36,11 @@
 - ["Brasil Colonial". Human Rights and Minoritires. Slum Magazine. Special Edition, (2018)](https://gueto.files.wordpress.com/2018/01/gueto_especial_02.pdf)
 
 - ["Ecce Homo". Cyberia. Slum Magazine. Special Edition, (2018)](https://gueto.files.wordpress.com/2018/01/gueto_especial_02.pdf)
+
+
+ <h2>Certifications and Licenses</h2>
+
+- [Google Cybersecurity Specialization](https://coursera.org/share/91c63fa479f00f29054e789339385024)
 
 
 <h2> 🤳 Connect with me:</h2>
