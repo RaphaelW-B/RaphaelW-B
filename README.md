@@ -41,6 +41,8 @@
  <h2>Certifications and Licenses</h2>
 
 - [Google Cybersecurity Specialization](https://coursera.org/share/91c63fa479f00f29054e789339385024)
+- [Infosec Cybersecurity Leadership and Management Specialization](https://coursera.org/share/d682087a3257019cd97297f2e092e178)
+- [SIEM Splunk Hands-On Guide Specialization](https://coursera.org/share/ab73636b8ddd055b715924fadbc75f05)
 
 
 <h2> 🤳 Connect with me:</h2>
