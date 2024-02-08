@@ -6,7 +6,7 @@
   - [Establishing a real-time Security Operations Center (SOC) Honeynet within the Azure platform](https://github.com/RaphaelW-B/HoneyPotInAzure)
 
 - <b>PowerShell</b>
-  - [Windows EventLog: Converting Failed RDP Login Source IPs to Full Geolocation Data](https://github.com/RaphaelW-B/eventlog_geoloc)
+  - [SIEM home lab: geographic data for unsuccessful RDP connections to an IP address](https://github.com/RaphaelW-B/eventlog_geoloc)
 
 - <b>Linux</b>
 
