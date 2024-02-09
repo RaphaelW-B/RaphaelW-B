@@ -13,6 +13,11 @@
 - <b>Linux</b>
 
   - [Credential Harvesting Tool via spoofing in Linux](https://github.com/RaphaelW-B/websitespoofingLinux/blob/c97708520de12ffe2829218a17e4342ff23fbe2d/README.md)
+ 
+- <b>C++</b>
+
+- [Custom LSASS Dumper in C++](https://github.com/RaphaelW-B)
+
 
 <h2>Awards</h2>
 
