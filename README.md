@@ -4,7 +4,8 @@
 
 - <b>CyberSecurity and Cloud Projects</b>
   - [Establishing a real-time Security Operations Center (SOC) Honeynet within the Azure platform](https://github.com/RaphaelW-B/HoneyPotInAzure)
-  - [Active Directory Implemented On-Premises and Deployed on Azure Cloud](https://github.com/RaphaelW-B/ActiveDirectory)
+  - [Active Directory Implemented On-Premises and Deployed on Azure Cloud](https://github.com/RaphaelW-B/ActiveDirectory).
+  - [Exploring Network Traffic Using Wireshark](https://github.com/RaphaelW-B/wiresharknetworking)
 
 - <b>PowerShell</b>
   - [SIEM home lab: geographic data for unsuccessful RDP connections to an IP address](https://github.com/RaphaelW-B/eventlog_geoloc)
