@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development, Cybersecurity and other nerdish Projects:</h2>
 
-- <b>Azure Projects</b>
+- <b>CyberSecurity and Cloud Projects</b>
   - [Establishing a real-time Security Operations Center (SOC) Honeynet within the Azure platform](https://github.com/RaphaelW-B/HoneyPotInAzure)
 
 - <b>PowerShell</b>
