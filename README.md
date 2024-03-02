@@ -18,7 +18,10 @@
 
   - [Custom LSASS Dumper in C++](https://github.com/RaphaelW-B)
 
+- <b>Python</b>
 
+  - [Band name generator](https://github.com/RaphaelW-B)
+    
 <h2>Awards</h2>
 
 - [Lifesaving Award](https://www.linkedin.com/in/rafaelwb/overlay/1706165547945/single-media-viewer/?profileId=ACoAAD7J9OwBWkaFigm2y18kDUIp18BS0KipneU)
@@ -56,6 +59,7 @@
 - [Google Cybersecurity Specialization](https://coursera.org/share/91c63fa479f00f29054e789339385024)
 - [Infosec Cybersecurity Leadership and Management Specialization](https://coursera.org/share/d682087a3257019cd97297f2e092e178)
 - [SIEM Splunk Hands-On Guide Specialization](https://coursera.org/share/ab73636b8ddd055b715924fadbc75f05)
+- [CompTIA Security+](https://www.credly.com/badges/d6e2204b-9bd1-4b7e-9377-5fa298ff811f/public_url)
 
 
 <h2> 🤳 Connect with me:</h2>
