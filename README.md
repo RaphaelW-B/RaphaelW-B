@@ -20,7 +20,7 @@
 
 - <b>Python</b>
 
-  - [Band name generator](https://github.com/RaphaelW-B)
+  - [Band name generator](https://github.com/RaphaelW-B/bandname)
     
 <h2>Awards</h2>
 
