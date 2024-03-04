@@ -20,6 +20,7 @@
 
 - <b>Python</b>
 
+  - [Rock, paper, scissors](https://github.com/RaphaelW-B/rockpapersci/tree/main)
   - [Band name generator](https://github.com/RaphaelW-B/bandname)
     
 <h2>Awards</h2>
