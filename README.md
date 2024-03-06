@@ -19,6 +19,7 @@
   - [Custom LSASS Dumper in C++](https://github.com/RaphaelW-B)
 
 - <b>Python</b>
+  - [Calculator](https://github.com/RaphaelW-B/calculator/)
   - [Hangman Game](https://github.com/RaphaelW-B/HangmanGame/)
   - [Rock, paper, scissors](https://github.com/RaphaelW-B/rockpapersci/tree/main)
   - [Band name generator](https://github.com/RaphaelW-B/bandname)
