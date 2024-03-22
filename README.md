@@ -19,6 +19,7 @@
   - [Custom LSASS Dumper in C++](https://github.com/RaphaelW-B)
 
 - <b>Python</b>
+  - ["My mother-in-law is hungry" (Classic Snake Game)](https://github.com/RaphaelW-B/snake-game)
   - [Blackjack](https://github.com/RaphaelW-B/blackjack2/)
   - [Calculator](https://github.com/RaphaelW-B/calculator/)
   - [Hangman Game](https://github.com/RaphaelW-B/HangmanGame/)
