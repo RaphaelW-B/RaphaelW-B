@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development, Cybersecurity and other nerdish Projects:</h2>
 
-- <b>CyberSecurity and Cloud Projects</b>
+- <b>Cyber Security and Cloud Projects</b>
   - [Establishing a real-time Security Operations Center (SOC) Honeynet within the Azure platform](https://github.com/RaphaelW-B/HoneyPotInAzure)
   - [Active Directory Implemented On-Premises and Deployed on Azure Cloud](https://github.com/RaphaelW-B/ActiveDirectory).
   - [Exploring Network Traffic Using Wireshark](https://github.com/RaphaelW-B/wiresharknetworking)
